@@ -2,6 +2,7 @@
 #include<stdlib.h>
 #include<string.h>
 
+#define UBUNTU
 #ifdef UBUNTU
 #include <unistd.h>   //_getch
     #include <termios.h>  //_getch
